@@ -55,7 +55,6 @@ It should display (something like this):
 
 Movie Title | IMBD rating :
 
-
 American Desi | 6.7
 Into the Blue | 5.7
 Wallace & Gromit: The Curse of the Were-Rabbit | 7.9
