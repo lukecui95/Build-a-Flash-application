@@ -39,6 +39,7 @@ class Movie:
         return movies_list
 
     #Get top rated movies.
+    #Return movies with IMDB ratings greater than or equal to num.
     def get_top_rated(self,num):
         movies_list = []
         count = 0
