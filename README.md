@@ -118,5 +118,5 @@ This is a database diagram, which represents some of the data in the movies_clea
 I designed four tables in the diagram, which are Movie, Rating, Distributor and Director.
 See details below:
 
-
+![Test Image 6](https://github.com/lukecui95/SI507_Project2_cpengwei/blob/master/SI507_movies_database_plan.png)
 
