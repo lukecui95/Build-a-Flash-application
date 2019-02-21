@@ -94,8 +94,8 @@ python3 -m venv project2-env
 
 2)Activate your virtual environment
 
-
 source project2-env/bin/activate    # For Mac/Linux...
+
 source project2-env/Scripts/activate    # For Windows
 
 3)Install all requirements
