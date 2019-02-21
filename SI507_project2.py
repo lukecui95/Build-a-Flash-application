@@ -1,5 +1,6 @@
 from movies_tools import Movie,movies_clean
 from flask import Flask, render_template
+
 # Set up application
 app = Flask(__name__)
 
