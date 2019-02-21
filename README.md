@@ -39,6 +39,7 @@ There are two html files in the templates folder. These two html files are used 
 
 
 ### How to run our Flash app
+
 1) cd to the place you saved our files, and then type at the command prompt:
 python SI507_project2.py runserver
 
@@ -87,7 +88,7 @@ Alien | 8.5
 
 ### Use requirements.txt to set your virtual environment
 
-1) Create a virtual environment
+1)Create a virtual environment
 
 python3 -m venv project2-env
 
