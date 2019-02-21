@@ -7,7 +7,7 @@ movies_clean = pd.read_csv('movies_clean.csv')
 
 class Movie:
 
-    #Get the number of records in movies_clean.csv
+    #Get the number of records in movies_clean.csv file.
     num_records = len(movies_clean)
 
     #Movie that accepts as constructor input one row of the movies_clean.csv file
