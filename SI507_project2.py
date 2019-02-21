@@ -24,7 +24,7 @@ def movies_ratings():
     return render_template("movies_ratings.html",rating_list = movies_list)
 
 #This route can get 5 movies with IMDB ratings greater than or equal to <rating>.
-#Please limit <rating> from 0 to 8.5.
+#Please limit <rating> from 0 to 8.5, otherwise, it might take forever to run our app.
 @app.route('/movies/ratings/<rating>')
 def get_top_rated(rating):
     num =float(rating)
