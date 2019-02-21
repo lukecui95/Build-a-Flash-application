@@ -2,7 +2,7 @@
 
 This project is divided into two parts. 
 
-The first part consists of a movies_tools.py file, a SI507_project2.py file a templates folder and a movies_clean.csv file. The movies_tools.py file defined a class Movie, which was used to build the Flash application in SI507_project2.py. The SI507_project2.py file works as a Flash application, which allows you to go to the routes at some specific paths. Each of the routes depend upon the existence of movies_clean.csv.
+The first part consists of a movies_tools.py file, a SI507_project2.py file, a templates folder and a movies_clean.csv file. The movies_tools.py file defined a class Movie, which was used to build the Flash application in SI507_project2.py. The SI507_project2.py file works as a Flash application, which allows you to go to the routes at some specific paths. Each of the routes depend upon the existence of movies_clean.csv.
 
 The second part is a SI507_movies_database_plan database diagram, which represents some of the data in the movies_clean.csv file.
 
